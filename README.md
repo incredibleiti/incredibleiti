@@ -1,6 +1,5 @@
 ## Hi there 👋 Welcome to my Profile. I am "The Rejected Coder". 
-I jump in domains and languages because of my love for problem solving and pattern detection habit. Because of this, most of the Application Tracking System rejects my resume. Still, I continue to do what I love.
-I am working with C++ 11, C++ 14, C++ 17, Java and Python in my current project for Volkswagen Electric Cars (also Petrol). I am prooficient in Docker, CI/CD pipelines, Jenkins, CMake toolchain as well.
+I jump between domains and languages due to my love for problem-solving and my habit of detecting patterns. Because of this versatility, most Application Tracking Systems reject my resume. Still, I continue doing what I love. Currently, I am working with C++11, C++14, C++17, Java, and Python on a project for Volkswagen's electric and petrol cars. I am also proficient in Docker, CI/CD pipelines, Jenkins, and the CMake toolchain
 
 ## Technical Skillset: 💻
 1. C, C++ 14, C++ 17, C++ 20, C#, Java, Python, PHP, Javascript frameworks.
