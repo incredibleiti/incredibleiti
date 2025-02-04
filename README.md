@@ -1,9 +1,9 @@
 ## Hi there 👋 Welcome to my Profile. I am "The Rejected Coder". 
-I jump between domains and languages due to my love for problem-solving and my habit of detecting patterns. Because of this versatility, most Application Tracking Systems reject my resume. Still, I continue doing what I love. Currently, I am working with C++11, C++14, C++17, Java, and Python on a project for Volkswagen's electric and petrol cars. I am also proficient in Docker, CI/CD pipelines, Jenkins, and the CMake toolchain.
+I jump between domains and languages due to my passion for problem-solving and my talent for pattern detection. Because of this versatility, many Applicant Tracking Systems reject my resume. Still, I continue to pursue what I love. Currently, I am working with C++11, C++14, C++17, Java, and Python on a project for Volkswagen's electric and petrol vehicle platforms. I am also proficient in Docker, CI/CD pipelines, Jenkins, and the CMake toolchain.
 
-I am also active as IT Consultant, active in Mentoring, Coaching etc. where I utilize my Social and People Management skillset to bridge the culture gap among teams and organizations.
+Additionally, I am active as an IT Consultant and involved in mentoring and coaching, where I leverage my social and people management skills to bridge cultural gaps within teams and organizations.
 
-Feel free to discuss face to face (Microsoft Teams) to collaborate over Leadership positions. Keen on working as Managerial, Lead Profile.
+I would be happy to discuss leadership roles and collaboration opportunities via Microsoft Teams. I am particularly keen on managerial and lead profiles.
 
 ## Technical Skillset: 💻
 1. C, C++ 14, C++ 17, C++ 20, C#, Java, Python, PHP, Javascript frameworks.
