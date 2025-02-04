@@ -16,5 +16,6 @@ I am working with C++ 11, C++ 14, C++ 17, Java and Python in my current project 
 4. Capital Markets
 5. Gaming (Casino Game devekopment) 🕹️
 
+📧: itityagi.software@gmail.com
 You can download my resume: <a href="https://github.com/incredibleiti/portfolio/blob/main/SeniorSoftwareEngineer.pdf"> Hire Me | Consult Me </a>
 
