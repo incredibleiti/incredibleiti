@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Profile. I am "The Rejected Coder". 
+I jump in domains and languages because of my love for problem solving and pattern detection habit. Because of this, most of the Application Tracking System rejects my resume. Still, I continue to do what I love.
+I am working with C++ 11, C++ 14, C++ 17, Java and Python in my current project for Volkswagen Electric Cars (also Petrol). I am prooficient in Docker, CI/CD pipelines, Jenkins, CMake toolchain as well.
 
-<!--
-**incredibleiti/incredibleiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skillset: 💻
+1. C, C++, C#, Java, Python, PHP, Javascript frameworks.
+2. SQL, MySQL, PostgreSql, YAML.
+3. Linux, Autosar, ASPICE, CMake Toolchain.
+4. Frameworks: Django,
+5. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
 
-Here are some ideas to get you started:
+## Domain Experience:
+1. Automotive (Embedded Software Development) - Huawei, LG< Siemens, Volkswagen 🏎️
+2. Banking (ex- City Bank, Morgan Stanley, HSBC, RBS Bank) 🏦
+3. Healthcare 
+4. Capital Markets
+5. Gaming (Casino Game devekopment) 🕹️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can download my resume: <a href="https://github.com/incredibleiti/portfolio/blob/main/SeniorSoftwareEngineer.pdf"> Hire Me | Consult Me </a>
+
