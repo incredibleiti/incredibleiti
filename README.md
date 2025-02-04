@@ -3,10 +3,10 @@ I jump in domains and languages because of my love for problem solving and patte
 I am working with C++ 11, C++ 14, C++ 17, Java and Python in my current project for Volkswagen Electric Cars (also Petrol). I am prooficient in Docker, CI/CD pipelines, Jenkins, CMake toolchain as well.
 
 ## Technical Skillset: 💻
-1. C, C++, C#, Java, Python, PHP, Javascript frameworks.
+1. C, C++ 14, C++ 17, C++ 20, C#, Java, Python, PHP, Javascript frameworks.
 2. SQL, MySQL, PostgreSql, YAML.
 3. Linux, Autosar, ASPICE, CMake Toolchain.
-4. Frameworks: Django,
+4. Past Experience: C#, React JS, Node JS, Vu JS, .NET, MVVM, WPF, WCF and much more... (Just ask)
 5. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
 
 ## Domain Experience:
@@ -17,5 +17,10 @@ I am working with C++ 11, C++ 14, C++ 17, Java and Python in my current project 
 5. Gaming (Casino Game devekopment) 🕹️
 
 📧: itityagi.software@gmail.com
+
+LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated UI </a>
+
+Hackerrank: <a href="https://www.hackerrank.com/profile/intechworx"> Hackerrank Certifications </a>
+
 You can download my resume: <a href="https://github.com/incredibleiti/portfolio/blob/main/SeniorSoftwareEngineer.pdf"> Hire Me | Consult Me </a>
 
