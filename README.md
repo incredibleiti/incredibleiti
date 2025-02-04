@@ -13,7 +13,7 @@ I would be happy to discuss leadership roles and collaboration opportunities via
 5. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
 
 ## Domain Experience:
-1. Automotive (Embedded Software Development) - Huawei, LG< Siemens, Volkswagen 🏎️
+1. Automotive (Embedded Software Development) - Huawei, LG, Siemens, Volkswagen 🏎️
 2. Banking (ex- City Bank, Morgan Stanley, HSBC, RBS Bank) 🏦
 3. Healthcare 
 4. Capital Markets
