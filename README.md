@@ -28,5 +28,7 @@ LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated U
 
 Hackerrank: <a href="https://www.hackerrank.com/profile/intechworx"> Hackerrank Certifications </a>
 
+StackoverFlow: <a href="https://stackoverflow.com/users/1667562/iti-tyagi"> Yes I still Use StackOverFlow </a>
+
 You can download my resume: <a href="https://github.com/incredibleiti/portfolio/blob/main/SeniorSoftwareEngineer.pdf"> Hire Me | Consult Me </a>
 
