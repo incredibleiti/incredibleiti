@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my Profile. 
-I have passion for problem solving, real world, coding world and more. I am proficient in C++,C and C#. (How come?). Well I started my career with C# (still use it for Hackathons sometimes), but from past 7 years I am active with C# as well.
+I have passion for problem solving, real world, coding world and more. I am proficient in C++,C and C#. (How come?). Well I started my career with C# (still use it for Hackathons sometimes), but from past 7 years I am active with C++ as well.
 I jump between domains and languages due to my passion for problem-solving and my talent for pattern detection. Because of this versatility, many Applicant Tracking Systems reject my resume. Still, I continue to pursue what I love. Currently, I am working with C++11, C++14, C++17, Java, and Python on a project for Volkswagen's electric and petrol vehicle platforms. I am also proficient in Docker, CI/CD pipelines, Jenkins, and the CMake toolchain.
 
 Additionally, I am active as an IT Consultant and involved in mentoring and coaching, where I leverage my social and people management skills to bridge cultural gaps within teams and organizations.
