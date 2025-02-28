@@ -9,9 +9,10 @@ I would be happy to discuss leadership roles and collaboration opportunities via
 ## Technical Skillset: 💻
 1. C, C++ 14, C++ 17, C++ 20, C#, Java, Python, PHP, Javascript frameworks.
 2. SQL, MySQL, PostgreSql, YAML.
-3. Linux, Autosar, ASPICE, CMake Toolchain.
-4. Past Experience: C#, React JS, Node JS, Vu JS, .NET, MVVM, WPF, WCF and much more... (Just ask)
-5. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
+3. Docker, CI/CD Toolchains, Containers
+4. Linux, Autosar, ASPICE, CMake Toolchain.
+5. Past Experience: C#, React JS, Node JS, Vu JS, .NET, MVVM, WPF, WCF and much more... (Just ask)
+6. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
 
 ## Domain Experience:
 1. Automotive (Embedded Software Development) - Huawei, LG, Siemens, Volkswagen 🏎️
