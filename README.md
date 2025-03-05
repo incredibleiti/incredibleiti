@@ -23,7 +23,7 @@ I would be happy to discuss leadership roles and collaboration opportunities via
 
 📧: itityagi.software@gmail.com
 
-LinkedIn: <a href ="https://www.linkedin.com/in/itityagi1/"> Link Me In </a>
+<b>LinkedIn </b>: <a href ="https://www.linkedin.com/in/itityagi1/"> <img src="./assets/LinkedInLogo.jpg" height= "30" width="30" /></a>
 
 LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated UI (I use NeetCode.io) </a>
 
