@@ -23,8 +23,6 @@ I would be happy to discuss leadership roles and collaboration opportunities via
 
 📧: itityagi.software@gmail.com
 
-<b>LinkedIn </b>: <a href ="https://www.linkedin.com/in/itityagi1/"> <img src="./assets/LinkedInLogo.jpg" height= "30" width="30" /></a>
-
 LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated UI (I use NeetCode.io) </a>
 
 Hackerrank: <a href="https://www.hackerrank.com/profile/intechworx"> Hackerrank Certifications </a>
