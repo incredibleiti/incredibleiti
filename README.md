@@ -19,7 +19,7 @@ I would be happy to discuss leadership roles and collaboration opportunities via
 2. Banking (ex- City Bank, Morgan Stanley, HSBC, RBS Bank) 🏦
 3. Healthcare 
 4. Capital Markets
-5. Gaming (Casino Game devekopment) 🕹️
+5. Gaming (Casino Game development) 🕹️
 
 📧: itityagi.software@gmail.com
 
