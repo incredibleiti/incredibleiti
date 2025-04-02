@@ -1,25 +1,29 @@
 ## Hi there 👋 Welcome to my Profile. 
-I am a Certified Software Architect who has passion for problem solving, real world, coding world and more. I am proficient in C++,C,Java,PHP,Python and C#. (How come?). Well I started my career with C# (still use it for Hackathons sometimes), but from past 7 years I am active with C++ as well.
-I jump between domains and languages due to my passion for problem-solving and my talent for pattern detection. Because of this versatility, many Applicant Tracking Systems reject my resume. Still, I continue to pursue what I love. Currently, I am working with C++11, C++14, C++17, Java, and Python on a project for Volkswagen's electric and petrol vehicle platforms. I am also proficient in <b> Docker, CI/CD pipelines, Jenkins, and the CMake toolchain </b>.
+I’m a Certified Software Architect with a passion for problem-solving—both in the real world and the coding world. I'm proficient in C++, C, Java, PHP, Python, and C#.
+How come? I began my career with C# (and still use it during hackathons), but for the past 7 years, I’ve been working primarily with C++.
 
-Additionally, I am active as an IT Consultant and involved in mentoring and coaching, where I leverage my social and people management skills to bridge cultural gaps within teams and organizations.
+I regularly switch between domains and languages thanks to my curiosity, pattern recognition skills, and drive to solve complex problems. While this versatility sometimes confuses Applicant Tracking Systems, I’ve stayed committed to doing the kind of work I love.
 
-I would be happy to discuss leadership roles and collaboration opportunities via Microsoft Teams. I am particularly keen on managerial and lead profiles.
+Currently, I’m working with C++11/14/17, Java, and Python on software projects for Volkswagen's electric and petrol vehicle platforms. I’m also skilled in Docker, CI/CD pipelines, Jenkins, and CMake.
+
+In addition to my technical role, I’m active as an IT Consultant, and I mentor and coach teams—leveraging my social and people management skills to bridge cultural gaps and build stronger engineering communities.
+
+I’m open to leadership roles and collaboration opportunities—especially those involving architecture or technical management. Happy to connect over Microsoft Teams!
 
 ## Technical Skillset: 💻
-1. C, C++ 14, C++ 17, C++ 20, C#, Java, Python, PHP, Javascript frameworks and now Rust
-2. SQL, MySQL, PostgreSql, YAML.
-3. Docker, CI/CD Toolchains, Containers
-4. Linux, Autosar, ASPICE, CMake Toolchain.
-5. Past Experience: C#, React JS, Node JS, Vu JS, .NET, MVVM, WPF, WCF and much more... (Just ask)
-6. Others: Code Reviews, Thoughtful Coding, Less Technical Debts, Patience and Solving the problem right way.
+1. Languages: C, C++14/17/20, C#, Java, Python, PHP, JavaScript, Rust
+2. Databases & Markup: SQL, MySQL, PostgreSQL, YAML
+3. Tools & DevOps: Docker, CI/CD, Jenkins, Containers
+4. Platforms & Standards: Linux, AUTOSAR, ASPICE, CMake
+5. Past Projects: C#, React.js, Node.js, Vue.js, .NET, MVVM, WPF, WCF — just ask!
+6. Mindset: Code Reviews, Thoughtful Coding, Reducing Technical Debt, Patience, and Doing Things the Right Way™
 
 ## Domain Experience:
-1. Automotive (Embedded Software Development) - Huawei, LG, Siemens, Volkswagen 🏎️
-2. Banking (ex- City Bank, Morgan Stanley, HSBC, RBS Bank) 🏦
-3. Healthcare 
-4. Capital Markets
-5. Gaming (Casino Game development) 🕹️
+* Automotive – Embedded Software (Huawei, LG, Siemens, Volkswagen) 🏎️
+* Banking – (Citibank, Morgan Stanley Inc, HSBC, RBS (Natwest)) 🏦
+* Healthcare - Philips, CareMark 
+* Capital Markets, Hedge Funds
+* Gaming – Casino Game Development 🕹️
 
 📧: itityagi.software@gmail.com
 
@@ -28,6 +32,4 @@ LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated U
 Hackerrank: <a href="https://www.hackerrank.com/profile/intechworx"> Hackerrank Certifications </a>
 
 StackoverFlow: <a href="https://stackoverflow.com/users/1667562/iti-tyagi"> Yes I still Use StackOverFlow </a>
-
-You can download my resume: <a href="https://github.com/incredibleiti/portfolio/blob/main/SeniorSoftwareEngineer.pdf"> Hire Me | Consult Me </a>
 
