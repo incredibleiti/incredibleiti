@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my Profile. 
-I’m a Certified Software Architect cum Engineering Manager with a passion for problem-solving—both in the real world and the coding world. I'm proficient in C++, C, Java, PHP, Python, and C#.
+I’m a <b>Certified Software Architect cum Engineering Manager </b> with a passion for problem-solving—both in the real world and the coding world. I'm proficient in C++, C, Java, PHP, Python, and C#.
 How come? I began my career with C# (and still use it during hackathons), but for the past 7 years, I’ve been working primarily with C++.
 
 I regularly switch between domains and languages thanks to my curiosity, pattern recognition skills, and drive to solve complex problems. While this versatility sometimes confuses Applicant Tracking Systems, I’ve stayed committed to doing the kind of work I love.
