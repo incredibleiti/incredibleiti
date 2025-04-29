@@ -12,19 +12,19 @@ I am currently associated with Rotterdam Women in Tech, SheCanCode, GirlCode Net
 I’m open to leadership roles and collaboration opportunities—especially those involving architecture or technical management. Happy to connect over Microsoft Teams!
 
 ## Technical Skillset: 💻
-1. Languages: C, C++14/17/20, C#, Java, Python, PHP, JavaScript, Rust
-2. Databases & Markup: SQL, MySQL, PostgreSQL, YAML
-3. Tools & DevOps: Docker, CI/CD, Jenkins, Containers
-4. Platforms & Standards: Linux, AUTOSAR, ASPICE, CMake
-5. Past Projects: C#, React.js, Node.js, Vue.js, .NET, MVVM, WPF, WCF — just ask!
-6. Mindset: Code Reviews, Thoughtful Coding, Reducing Technical Debt, Patience, and Doing Things the Right Way™
+1. **Languages:** C, C++14/17/20, C#, Java, Python, PHP, JavaScript, Rust
+2. **Databases & Markup:** SQL, MySQL, PostgreSQL, YAML
+3. **Tools & DevOps:** Docker, CI/CD, Jenkins, Containers
+4. **Platforms & Standards:** Linux, AUTOSAR, ASPICE, CMake
+5. **Past Projects:** C#, React.js, Node.js, Vue.js, .NET, MVVM, WPF, WCF — just ask!
+6. **Mindset:** Code Reviews, Thoughtful Coding, Reducing Technical Debt, Patience, and Doing Things the Right Way™
 
 ## Domain Experience:
-* Automotive – Embedded Software (Huawei, LG, Siemens, Volkswagen) 🏎️
-* Banking – (Citibank, Morgan Stanley Inc, HSBC, RBS (Natwest)) 🏦
-* Healthcare - Philips, CareMark 
-* Capital Markets, Hedge Funds
-* Gaming – Casino Game Development 🕹️
+* **Automotive** – Embedded Software (Huawei, LG, Siemens, Volkswagen) 🏎️
+* **Banking** – (Citibank, Morgan Stanley Inc, HSBC, RBS (Natwest)) 🏦
+* **Healthcare** - Philips, CareMark 
+* **Capital Markets**, Hedge Funds
+* **Gaming** – Casino Game Development 🕹️
 
 📧: itityagi.software@gmail.com
 
