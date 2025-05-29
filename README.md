@@ -27,10 +27,5 @@ I’m open to leadership roles and collaboration opportunities—especially thos
 * **Gaming** – Casino Game Development 🕹️
 
 📧: itityagi.software@gmail.com
-
-LeetCode: <a href="https://leetcode.com/u/intechworx/"> Leetcode needs updated UI (I use NeetCode.io) </a>
-
-Hackerrank: <a href="https://www.hackerrank.com/profile/intechworx"> Hackerrank Certifications </a>
-
 StackoverFlow: <a href="https://stackoverflow.com/users/1667562/iti-tyagi"> Yes I still Use StackOverFlow </a>
 
