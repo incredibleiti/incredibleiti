@@ -27,7 +27,10 @@ I’m open to leadership roles and collaboration opportunities—especially thos
 * **Gaming** – Casino Game Development, WPF, Silverlight 🕹️
 
 📧: itityagi.software@gmail.com
+
 StackoverFlow: <a href="https://stackoverflow.com/users/1667562/iti-tyagi"> Yes I still Use StackOverFlow </a>
+
+Linkedin: https://www.linkedin.com/in/itityagi1/
 
 ## Published Research Papers:
 Gender Pay Gap - Presented on 8th October - 11th October, WomenBeing Conference at Queen Margaret University, Edinburgh, Scotland. <a href="https://github.com/incredibleiti/incredibleiti/blob/main/assets/Gender%20Pay%20Gap%20-%20Paper.pdf"> Read paper Here </a>
