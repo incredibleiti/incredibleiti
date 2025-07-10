@@ -13,7 +13,7 @@ I’m open to leadership roles and collaboration opportunities especially those 
 
 ## Technical Skillset: 💻
 1. **Languages:** C, C++14/17/20, C#, Java, Python Django Frameowork (5.2.1), PHP Symphony and Laravel, JavaScript Frameworks - Angular, React, Node JS, Rust
-2. **Databases & Markup:** SQL, MySQL, PostgreSQL, YAML
+2. **Databases & Markup:** SQL, MySQL, PostgreSQL, YAML, MongoDB, Cassandra
 3. **Tools & DevOps:** Docker, CI/CD, Jenkins, Containers, Kubernetes
 4. **Platforms & Standards:** Linux, AUTOSAR, ASPICE, CMake
 5. **Past Projects:** C#, React.js, Node.js, Vue.js, .NET, MVVM, WPF, WCF — just ask!
