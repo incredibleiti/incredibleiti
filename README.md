@@ -5,6 +5,7 @@ How come? I began my career with C# (and still use it during hackathons), but fo
 I regularly switch between domains and languages thanks to my curiosity, pattern recognition skills, and drive to solve complex problems. While this versatility sometimes confuses Applicant Tracking Systems, I’ve stayed committed to doing the kind of work I love.
 
 Currently, I am designated as Lead Software Developer and Technical Advisory at Thoughtworks Inc, at their Amsterdam Location.
+
 **Past**:I’m working with C++11/14/17, Java, and Python on software projects for Volkswagen's electric and petrol vehicle platforms. I’m also skilled in Docker, CI/CD pipelines, Jenkins, and CMake.
 
 In addition to my technical role, I’m active as an IT Consultant, and I mentor and coach teams leveraging my social and people management skills to bridge cultural gaps and build stronger engineering communities.
