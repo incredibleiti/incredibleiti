@@ -1,4 +1,6 @@
 ## Hi there 👋 Welcome to my Profile. 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=incredibleiti.visitor-badge&left_color=red&right_color=green&left_text=Holaaa!)
+
 I’m a <b>Certified Organizational Leader, Software Architect, Engineering Leadership Mentor at SheCanCode, and founder of ByteTheNorm</b> with a passion for problem-solving—both in the real world and the coding world. I'm proficient in C++, C, Rust, Java, PHP, Python, and C#.
 How come? I began my career with C# (and still use it during hackathons), but for the past 7.5 years, I’ve been working with C++, C#, Java and Python.
 
