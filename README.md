@@ -46,6 +46,8 @@ I’m open to leadership roles and collaboration opportunities especially those 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-649b59">
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-c3042f">
 <img alt="CMake" src="https://img.shields.io/badge/-CMake-de4b25">
+<img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-c3042f">
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-649b59">
 </li>
 <li> <b>Development Environment:</b>
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
