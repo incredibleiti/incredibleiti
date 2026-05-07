@@ -17,7 +17,7 @@ I’m open to leadership roles and collaboration opportunities especially those 
 
 <h2> Technical Skillset: 💻 </h2>
 <ol>
-<li> Backend: 
+<li> <b>Backend:</b>
 <img alt="C++" src="https://img.shields.io/badge/C++-8A2BE2" />
 <img alt="C" src="https://img.shields.io/badge/C-61dafb" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-de4b25" />
@@ -25,7 +25,7 @@ I’m open to leadership roles and collaboration opportunities especially those 
 <img alt="Python" src="https://img.shields.io/badge/Python-8A2BE2" />
 <img alt="C#" src="https://img.shields.io/badge/CSharp-007acc" />
 </li>
-<li> Frontend:
+<li> <b>Frontend:</b>
 <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-649b59?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0d91c?style=flat-square&logo=javascript&logoColor=white" />
@@ -34,20 +34,20 @@ I’m open to leadership roles and collaboration opportunities especially those 
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b982?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-c3042f?style=flat-square&logo=angular&logoColor=white" />
 </li>
-<li> Databases & Markup:
+<li> <b> Databases & Markup:</b>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-419642?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-8A2BE2" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-61dafb" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-de4b25" />
 <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-8A2BE2" />
 </li>
-<li> Toolchains:
+<li> <b>Toolchains: </b>
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-649b59">
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-c3042f">
 <img alt="CMake" src="https://img.shields.io/badge/-CMake-de4b25">
 </li>
-<li> Development Environment:
+<li> <b>Development Environment:</b>
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
