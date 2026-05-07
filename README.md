@@ -57,10 +57,10 @@ I’m open to leadership roles and collaboration opportunities especially those 
 
 ## Domain Experience:
 * **Automotive** – Embedded Software (Huawei, LG, Siemens, Volkswagen) 🏎️
-* **Banking** – (Citi bank, Morgan Stanley Inc., HSBC, RBS (Natwest)) 🏦
-* **Healthcare** - Philips, CareMark 
-* **Capital Markets** - Hedge Funds
-* **Gaming** – Casino Game Development, WPF, Silverlight 🕹️
+* **Banking** – Citi bank, Morgan Stanley Inc., HSBC, RBS (Natwest) 🏦
+* **Healthcare** – Philips, CareMark
+* **Capital Markets** – Hedge Funds
+* **Gaming** – Casino Game Development 🕹️
 
 📧: itityagi.software@gmail.com
 
