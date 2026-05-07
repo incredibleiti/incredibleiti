@@ -21,9 +21,9 @@ I’m open to leadership roles and collaboration opportunities especially those 
 <img alt="C++" src="https://img.shields.io/badge/C++-8A2BE2" />
 <img alt="C" src="https://img.shields.io/badge/C-61dafb" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-de4b25" />
-<img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2" />
+<img alt="Java" src="https://img.shields.io/badge/Java-f0d91c" />
 <img alt="Python" src="https://img.shields.io/badge/Python-8A2BE2" />
-<img alt="C#" src="https://img.shields.io/badge/CSharp-8A2BE2" />
+<img alt="C#" src="https://img.shields.io/badge/CSharp-007acc" />
 </li>
 <li> Frontend:
 <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
